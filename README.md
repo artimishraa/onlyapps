@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: Effective Date: August 17, 2025
+Last updated: Effective Date: August 22, 2025
 
 This app is designed to work completely offline. We respect your privacy and are committed to protecting it.
 
