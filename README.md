@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: Effective Date: August 22, 2025
+Last updated: Effective Date: August 24, 2025
 
 This app is designed to work completely offline. We respect your privacy and are committed to protecting it.
 
@@ -11,7 +11,7 @@ Covered Applications
 This policy applies to the following apps:
 
 1. Only Play
-3. Only File Manager
+2. Only File Manager
 3. Only Galllery 
 
 Information Collection and Use
