@@ -4,6 +4,12 @@ Last updated: Effective Date: August 17, 2025
 
 This app is designed to work completely offline. We respect your privacy and are committed to protecting it.
 
+This privacy policy applies to the all mobile application published by &mobi, available on Google Play.
+here are the list of all developed by &mobi 
+1. Only Play
+3. Only File Manager
+3. Only Galllery 
+
 Information Collection and Use
 
 This app does not collect, store, or share any personal data.
