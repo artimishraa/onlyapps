@@ -13,7 +13,7 @@ This policy applies to the following apps:
 1. Only Play
 2. Only File Manager
 3. Only Galllery
-4.  Only Lock
+4. Only Files
 
 Information Collection and Use
 
