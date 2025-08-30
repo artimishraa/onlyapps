@@ -14,7 +14,7 @@ This policy applies to the following apps:
 2. Only File Manager
 3. Only Galllery
 4. Only Files
-5. 4. Only Launcher
+5. Only Launcher
 
 Information Collection and Use
 
