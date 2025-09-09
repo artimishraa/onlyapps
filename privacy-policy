@@ -15,7 +15,7 @@ This policy applies to the following apps:
 3. Only Files
 4. Only Launcher
 5. Only Music
-6. Only AppLock
+6. Only Calender
 7. Only Camera
 
 Information Collection and Use
