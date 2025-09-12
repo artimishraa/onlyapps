@@ -17,6 +17,7 @@ This policy applies to the following apps:
 5. Only Music
 6. Only Calender
 7. Only Camera
+8. Only Notes
 
 Information Collection and Use
 
