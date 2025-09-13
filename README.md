@@ -19,6 +19,7 @@ This policy applies to the following apps:
 7. Only Camera
 8. Only Notes
 9. Only Clock
+10. Only Keyboard
 
 Information Collection and Use
 
