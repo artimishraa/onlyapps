@@ -18,6 +18,7 @@ This policy applies to the following apps:
 6. Only Calender
 7. Only Camera
 8. Only Notes
+9. Only Clock
 
 Information Collection and Use
 
