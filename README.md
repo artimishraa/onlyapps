@@ -20,6 +20,9 @@ This policy applies to the following apps:
 8. Only Notes
 9. Only Clock
 10. Only Keyboard
+11. Only Phone
+12. Only Messages
+13. Only Contacts 
 
 Information Collection and Use
 
