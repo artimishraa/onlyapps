@@ -51,4 +51,4 @@ onlyapp.help@gmail.com
 
 We thank you for choosing Only Apps and trust that you will enjoy using our apps with the assurance of complete privacy.
 
-Published on Google Play by &mobi
+Published on Google Play by OnlyEssential
