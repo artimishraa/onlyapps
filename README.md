@@ -1,54 +1,67 @@
-# Privacy Policy
+#Privacy Policy for Only Apps
 
-Last updated: Effective Date: August 24, 2025
+Last updated: September 15, 2025
 
-This app is designed to work completely offline. We respect your privacy and are committed to protecting it.
+&mobi ("us", "we", or "our") operates the Only Apps suite of mobile applications (the "Services").
 
-This privacy policy applies to the all mobile application published by &mobi, available on Google Play.
-
-Covered Applications
-
-This policy applies to the following apps:
-
-1. Only Play
-2. Only Galllery
-3. Only Files
-4. Only Launcher
-5. Only Music
-6. Only Calender
-7. Only Camera
-8. Only Notes
-9. Only Clock
-10. Only Keyboard
-11. Only Phone
-12. Only Messages
-13. Only Contacts 
+This Privacy Policy outlines our commitment to safeguarding your privacy. It explains how we handle your information and ensures transparency about our practices.
 
 Information Collection and Use
 
-This app does not collect, store, or share any personal data.
+Only Apps prioritizes your privacy. None of our applications collect, store, or share personal data. All apps function entirely offline, and no user information is transmitted to us or any third party.
 
-No information (such as name, email, device details, or usage data) is gathered, transmitted, or stored.
+Furthermore, our apps do not request Internet permission. This means they cannot send or receive data over the internet, ensuring your information never leaves your device.
 
-The app functions entirely offline and does not require an internet connection to operate.
+This policy applies to the following applications:
 
-Data Sharing
+● Only Play
 
-Since no data is collected, no data is shared with third parties.
+● Only Gallery
 
-Children’s Privacy
+● Only Files
 
-This app is safe for all users, including children, as it does not collect any personal information.
+● Only Launcher
+
+● Only Music
+
+● Only Calendar
+
+● Only Camera
+
+● Only Notes
+
+● Only Clock
+
+● Only Keyboard
+
+● Only Phone
+
+● Only Messages
+
+● Only Contacts
+
+Log Data
+
+Only Apps does not collect or store any log data. We do not track your activities, usage patterns, or device details.
+
+Cookies
+
+Only Apps does not use cookies or any tracking mechanisms. None of our apps store data on your device for tracking or analytics purposes.
 
 Security
 
-As the app does not process or retain any data, there are no risks of data breaches.
+Because Only Apps does not collect personal data, request Internet permission, or integrate with third-party services, there are no risks of data leaks, unauthorized access, or misuse. You can use our apps with confidence, knowing your privacy is fully protected.
 
 Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time to reflect any changes in our app. Updates will be posted here.
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page. We encourage you to review this document periodically for updates.
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-onlyapp.contact@gmail.com
+If you have any questions, suggestions, or would like to contribute to the open-source development of Only Apps, please contact us at:
+
+📧 onlyapp.contact@gmail.com
+
+📧 onlyapp.help@gmail.com
+
+We thank you for choosing Only Apps and trust that you will enjoy using our apps with the assurance of complete privacy.
