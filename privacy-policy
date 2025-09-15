@@ -1,4 +1,4 @@
-#Privacy Policy for Only Apps
+Privacy Policy for Only Apps
 
 Last updated: September 15, 2025
 
@@ -10,35 +10,35 @@ Information Collection and Use
 
 Only Apps prioritizes your privacy. None of our applications collect, store, or share personal data. All apps function entirely offline, and no user information is transmitted to us or any third party.
 
-Furthermore, our apps do not request Internet permission. This means they cannot send or receive data over the internet, ensuring your information never leaves your device.
+In addition, our apps do not request Internet permission. This means they cannot send or receive data online, ensuring that your information always stays on your device.
 
 This policy applies to the following applications:
 
-● Only Play
+Only Play
 
-● Only Gallery
+Only Gallery
 
-● Only Files
+Only Files
 
-● Only Launcher
+Only Launcher
 
-● Only Music
+Only Music
 
-● Only Calendar
+Only Calendar
 
-● Only Camera
+Only Camera
 
-● Only Notes
+Only Notes
 
-● Only Clock
+Only Clock
 
-● Only Keyboard
+Only Keyboard
 
-● Only Phone
+Only Phone
 
-● Only Messages
+Only Messages
 
-● Only Contacts
+Only Contacts
 
 Log Data
 
@@ -60,8 +60,10 @@ Contact Us
 
 If you have any questions, suggestions, or would like to contribute to the open-source development of Only Apps, please contact us at:
 
-📧 onlyapp.contact@gmail.com
+Email: onlyapp.contact@gmail.com
 
-📧 onlyapp.help@gmail.com
+Email: onlyapp.help@gmail.com
 
 We thank you for choosing Only Apps and trust that you will enjoy using our apps with the assurance of complete privacy.
+
+Published on Google Play by &mobi
