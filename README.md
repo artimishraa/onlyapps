@@ -2,7 +2,7 @@ Privacy Policy for Only Apps
 
 Last updated: September 15, 2025
 
-&mobi ("us", "we", or "our") operates the Only Apps suite of mobile applications (the "Services").
+OnlyEssential ("us", "we", or "our") operates the Only Apps suite of mobile applications (the "Services").
 
 This Privacy Policy outlines our commitment to safeguarding your privacy. It explains how we handle your information and ensures transparency about our practices.
 
