@@ -26,6 +26,9 @@ This policy applies to the following applications:
 - Only Phone
 - Only Messages
 - Only Contacts
+- Only Applock
+- Only Calculator
+- Only Paint
 
 Log Data
 
